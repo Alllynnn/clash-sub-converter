@@ -14,8 +14,8 @@
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/Alllynnn/clash-sub-converter.git
-   cd clash-sub-converter
+   git clone https://github.com/你的用户名/clash_sub_converter.git
+   cd clash_sub_converter
    ```
 
 2. 安装依赖：
@@ -64,9 +64,9 @@
 
 ## 注意事项
 
-- 本工具已集成 subconverter，无需单独启动
+- 本需要本地运行 subconverter 服务（默认在 http://127.0.0.1:25500/sub）
 - 首次运行时可能需要允许防火墙访问
 
 ## 许可证
 
-MIT
+MIT 
