@@ -1,0 +1,23 @@
+# 排除包含个人信息的文件
+links.txt
+merged_config.yaml
+merged_*
+
+# 排除缓存目录
+subconverter/cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 排除IDE和编辑器相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 排除系统文件
+.DS_Store
+Thumbs.db
+
+# 排除日志文件
+*.log
